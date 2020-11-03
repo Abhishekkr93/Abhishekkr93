@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Abhishekkr93/Abhishekkr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
   <samp>
     Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> This is Abhishek Kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> and Open Source Project manager at  <a href="https://github.com/IIITians-Network">@IIITians-Networks :octocat:</a>. Student at IIIT Ranchi :india:
