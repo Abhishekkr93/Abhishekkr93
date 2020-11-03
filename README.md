@@ -13,13 +13,12 @@
 ## :pencil2: My Works: :trophy:  
 - [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)   
 - [Letskhabar](https://letskhabar.com)
-- [Abhishek Kumar](http://Abhishek.letskhabar.com)
+- [Abhishek](http://Abhishek.letskhabar.com)
 - [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
-- [IIIT Ranchi: IIITians-Network](https://ranchi.iiitiansnetwork.com/)
+- [IIIT Ranchi:IIITians-Network](https://ranchi.iiitiansnetwork.com/)
 - [Letskhabar Dev](https://dev.letskhabar.com)
 - ### :robot: Open Source Packages :octocat:
   - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
-  - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
 
  ## :trophy: Languages and Tools: :robot:
 
