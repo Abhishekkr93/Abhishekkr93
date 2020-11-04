@@ -28,8 +28,7 @@
 ## :mailbox: Connect with me: : 💬
 [<img src="https://tool-icon.vercel.app/img/?tool=linkedin" alt="linkedin">](https://www.linkedin.com/in/abhishek-kumar-544057174)
 [<img src="https://tool-icon.vercel.app/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
-[<img src="https://tool-icon.vercel.app/img/?tool=twitter
-" alt="twitter">](https://twitter.com/amazing__ak)
+[<img src="https://tool-icon.vercel.app/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
 [<img src="https://tool-icon.vercel.app/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
 [<img src="https://tool-icon.vercel.app/img/?tool=google" alt="google">](http://Abhishek.letskhabar.com)
 [<img src="https://tool-icon.vercel.app/img/?tool=play" alt="play">](https://youtube.com/amazingak)
