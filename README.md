@@ -2,6 +2,10 @@
 <p align="center">
   <samp>
     Hi <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> This is Abhishek Kumar , Web Designer and Developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> and Open Source Project manager at  <a href="https://github.com/IIITians-Network">@IIITians-Networks :octocat:</a>. Student at IIIT Ranchi :india:
+    
+- 🌱 I’m currently learning everything.🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to write & listening Poetry, Travelling.
   </samp>
 </p>
 
