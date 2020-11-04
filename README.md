@@ -20,9 +20,21 @@
 - ### :robot: Open Source Packages :octocat:
   - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
 
+
  ## :trophy: Languages and Tools: :robot:
-
-
+<img src="https://tool-icon.vercel.app/img/?tool=c-programming" alt="c-programming">
+<img src="https://tool-icon.vercel.app/img/?tool=c-plus" alt="c-plus">
+<img src="https://tool-icon.vercel.app/img/?tool=css" alt="css">
+<img src="https://tool-icon.vercel.app/img/?tool=flutter" alt="flutter">
+<img src="https://tool-icon.vercel.app/img/?tool=js" alt="js">
+<img src="https://tool-icon.vercel.app/img/?tool=git" alt="git">
+<img src="https://tool-icon.vercel.app/img/?tool=html" alt="html">
+<img src="https://tool-icon.vercel.app/img/?tool=github" alt="github">
+<img src="https://tool-icon.vercel.app/img/?tool=adobe-illustrator" alt="adobe-illustrator">
+<img src="https://tool-icon.vercel.app/img/?tool=adobe-photoshop" alt="adobe-photoshop">
+<img src="https://tool-icon.vercel.app/img/?tool=adobe-pr" alt="adobe-pr">
+<img src="https://tool-icon.vercel.app/img/?tool=adobe-lightroom" alt=adobe-lightroom">
+<img src="https://tool-icon.vercel.app/img/?tool=youtube" alt="youtube">
 
 
 ## :mailbox: Get in touch: 💬
