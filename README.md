@@ -17,7 +17,7 @@
 - [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
 - [IIIT Ranchi: IIITians-Network](https://ranchi.iiitiansnetwork.com/)
 - [Letskhabar Dev](https://dev.letskhabar.com)
-- ### :robot: Open Source Packages :octocat:
+- ### :robot: Open Source Packages: :octocat:
   - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
 
 
@@ -25,10 +25,12 @@
 <img src="https://tool-icon.vercel.app/img/?tool=c-programming" alt="c-programming"><img src="https://tool-icon.vercel.app/img/?tool=c-plus" alt="c-plus"><img src="https://tool-icon.vercel.app/img/?tool=css" alt="css"><img src="https://tool-icon.vercel.app/img/?tool=flutter" alt="flutter"><img src="https://tool-icon.vercel.app/img/?tool=js" alt="js"><img src="https://tool-icon.vercel.app/img/?tool=git" alt="git"><img src="https://tool-icon.vercel.app/img/?tool=html" alt="html"><img src="https://tool-icon.vercel.app/img/?tool=github" alt="github"><img src="https://tool-icon.vercel.app/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://tool-icon.vercel.app/img/?tool=adobe-photoshop" alt="adobe-photoshop"><img src="https://tool-icon.vercel.app/img/?tool=adobe-pr" alt="adobe-pr"><img src="https://tool-icon.vercel.app/img/?tool=adobe-lightroom" alt="adobe-lightroom"><img src="https://tool-icon.vercel.app/img/?tool=youtube" alt="youtube">
 
 
-## :mailbox: Get in touch: 💬
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/abhishek-kumar-544057174)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-dev.svg" width="30px">](https://dev.to/amazing__ak)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-twitter.svg" width="30px">](https://twitter.com/amazing__ak)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
-[<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](http://Abhishek.letskhabar.com)
+## :mailbox: Connect with me: : 💬
+[<img src="https://tool-icon.vercel.app/img/?tool=linkedin" alt="linkedin">](https://www.linkedin.com/in/abhishek-kumar-544057174)
+[<img src="https://tool-icon.vercel.app/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
+[<img src="https://tool-icon.vercel.app/img/?tool=twitter
+" alt="twitter
+">](https://twitter.com/amazing__ak)
+[<img src="https://tool-icon.vercel.app/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
+[<img src="https://tool-icon.vercel.app/img/?tool=google" alt="google">](http://Abhishek.letskhabar.com)
 [<img src="https://tool-icon.vercel.app/img/?tool=play" alt="play">](https://youtube.com/amazingak)
