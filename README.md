@@ -25,7 +25,7 @@
 <img src="https://tool-icon.vercel.app/img/?tool=c-programming" alt="c-programming"><img src="https://tool-icon.vercel.app/img/?tool=c-plus" alt="c-plus"><img src="https://tool-icon.vercel.app/img/?tool=css" alt="css"><img src="https://tool-icon.vercel.app/img/?tool=flutter" alt="flutter"><img src="https://tool-icon.vercel.app/img/?tool=js" alt="js"><img src="https://tool-icon.vercel.app/img/?tool=git" alt="git"><img src="https://tool-icon.vercel.app/img/?tool=html" alt="html"><img src="https://tool-icon.vercel.app/img/?tool=github" alt="github"><img src="https://tool-icon.vercel.app/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://tool-icon.vercel.app/img/?tool=adobe-photoshop" alt="adobe-photoshop"><img src="https://tool-icon.vercel.app/img/?tool=adobe-pr" alt="adobe-pr"><img src="https://tool-icon.vercel.app/img/?tool=adobe-lightroom" alt="adobe-lightroom"><img src="https://tool-icon.vercel.app/img/?tool=youtube" alt="youtube">
 
 
-## :mailbox: Connect with me: : 💬
+## :mailbox: Connect with me: 💬
 [<img src="https://tool-icon.vercel.app/img/?tool=linkedin" alt="linkedin">](https://www.linkedin.com/in/abhishek-kumar-544057174)
 [<img src="https://tool-icon.vercel.app/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
 [<img src="https://tool-icon.vercel.app/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
