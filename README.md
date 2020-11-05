@@ -10,7 +10,7 @@
 </p>
 
 
-<img align="right" width="375" alt="GIF" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" />
+<img align="right" width="400" alt="GIF" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" />
 
 
 ### :pencil2: My Works:
