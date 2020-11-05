@@ -15,7 +15,7 @@
 
 
 ## :pencil2: My Works:
-- [Abhishek.com](http://Abhishek.letskhabar.com)
+- [Abhishek.letskhabar.com](http://Abhishek.letskhabar.com)
 - [Letskhabar](https://letskhabar.com)
 - [IIIT Ranchi: IIITians-Network](https://ranchi.iiitiansnetwork.com/)
 - [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
