@@ -20,8 +20,9 @@
 - [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
 - [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)  
 - [Letskhabar Dev](https://dev.letskhabar.com)
+
 - ### :robot: Open Source Packages: 
-  - prime-num is javascript packages for find primes number[Prime-num](https://www.npmjs.com/package/prime-num)
+  - prime-num is javascript packages for find primes number. [Prime-num](https://www.npmjs.com/package/prime-num)
 
 
  ## :trophy: Languages and Tools: 
