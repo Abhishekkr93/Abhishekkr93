@@ -1,7 +1,7 @@
 ### Hi there! 👋
 <p align="center">
   <samp>
-    Hi <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> This is Abhishek Kumar , Web Designer and Developer working on <a href="https://github.com/letskhabar">:octocat: @Letskhabar </a> and Open Source Project contributor at  <a href="https://github.com/IIITians-Network">:octocat: @IIITians-Networks </a>. Student at IIIT Ranchi :india:.
+    Hi <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> This is Abhishek Kumar , Web Designer and Developer working on <a href="https://github.com/letskhabar">:octocat: @Letskhabar </a> and Open Source Project contributor at  <a href="https://github.com/IIITians-Network">:octocat: @IIITians-Networks </a>, Student at IIIT Ranchi :india:.
     
 - 🌱 I’m currently learning everything.🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects.
