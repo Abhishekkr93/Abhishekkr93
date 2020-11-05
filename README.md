@@ -34,3 +34,5 @@
 [<img src="https://tool-icon.vercel.app/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
 [<img src="https://tool-icon.vercel.app/img/?tool=globe" alt="globe">](http://Abhishek.letskhabar.com)
 [<img src="https://tool-icon.vercel.app/img/?tool=play" alt="play">](https://youtube.com/amazingak)
+[<img src="https://tool-icon.vercel.app/img/?tool=instagram" alt="instagram">](https://instagram.com/amazing__ak)
+[<img src="https://tool-icon.vercel.app/img/?tool=facebook" alt="facebook">](https://www.facebook.com/AmazingAK)
