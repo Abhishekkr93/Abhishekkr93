@@ -38,3 +38,10 @@
 [<img src="https://tool-icon.vercel.app/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
 [<img src="https://tool-icon.vercel.app/img/?tool=instagram" alt="instagram">](https://instagram.com/amazing__ak)
 [<img src="https://tool-icon.vercel.app/img/?tool=facebook" alt="facebook">](https://www.facebook.com/AmazingAK)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Abhishek's GitHub Stats" src="https://github-readme-stats.abhishek.vercel.app/api?username=Abhishekkr93&show_icons=true&hide_border=true" />
+
+</details>
