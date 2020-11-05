@@ -34,5 +34,5 @@
 [<img src="https://tool-icon.vercel.app/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
 [<img src="https://tool-icon.vercel.app/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
 [<img src="https://tool-icon.vercel.app/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
-[<img src="https://tool-icon.vercel.app/img/?tool=chrome" alt="chrome">](http://Abhishek.letskhabar.com)
+[<img src="https://tool-icon.vercel.app/img/?tool=globe" alt="globe">](http://Abhishek.letskhabar.com)
 [<img src="https://tool-icon.vercel.app/img/?tool=play" alt="play">](https://youtube.com/amazingak)
