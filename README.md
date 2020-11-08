@@ -6,7 +6,7 @@
     
 - 😉 I’m currently learning everything.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to write & listening Poetry, Travelling.
+- ⚡ Fun fact: I love to write, Recite & listening Poetry , My Hobby is Travelling & Quizzing.
   </samp>
 </p>
 
