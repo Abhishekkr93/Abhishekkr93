@@ -27,7 +27,7 @@
 
 
  ## :trophy: Languages and Tools: 
-<img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=css" alt="css"><img src="https://logo.letskhabar.com//img/?tool=flutter" alt="flutter"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://logo.letskhabar.com/img/?tool=adobe-photoshop" alt="adobe-photoshop"><img src="https://logo.letskhabar.com/img/?tool=adobe-pr" alt="adobe-pr"><img src="https://logo.letskhabar.com/img/?tool=adobe-lightroom" alt="adobe-lightroom"><img src="https://logo.letskhabar.com/img/?tool=youtube" alt="youtube">
+<img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=css" alt="css"><img src="https://logo.letskhabar.com//img/?tool=flutter" alt="flutter"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://logo.letskhabar.com/img/?tool=adobe-photoshop" alt="adobe-photoshop"><img src="https://logo.letskhabar.com/img/?tool=adobe-premiere-pro" alt="adobe-pr"><img src="https://logo.letskhabar.com/img/?tool=adobe-lightroom" alt="adobe-lightroom"><img src="https://logo.letskhabar.com/img/?tool=youtube" alt="youtube">
 
 
 ##  💬 Connect with me:
@@ -35,7 +35,7 @@
 [<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin">](https://www.linkedin.com/in/abhishek-kumar-544057174)
 [<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
 [<img src="https://logo.letskhabar.com/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
-[<img src="https://logo.letskhabar.com/img/?tool=play" alt="play">](https://youtube.com/amazingak)
+[<img src="https://logo.letskhabar.com/img/?tool=play-button" alt="play">](https://youtube.com/amazingak)
 [<img src="https://logo.letskhabar.com/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
 [<img src="https://logo.letskhabar.com/img/?tool=instagram" alt="instagram">](https://instagram.com/amazing__ak)
 [<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook">](https://www.facebook.com/AmazingAK)
