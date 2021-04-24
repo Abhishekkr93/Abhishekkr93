@@ -1,5 +1,5 @@
 ## Hi there I am Abhishek! 👋
-  [![Portfolio Website](https://img.shields.io/website?label=Abhishek.letskhabar.com&style=for-the-badge&url=https%3A%2F%2Fabhishek.letskhabar.com)](http://Abhishek.letskhabar.com)
+  [![Portfolio Website](https://img.shields.io/website?label=Abhishek.letskhabar.com&style=for-the-badge&url=https%3A%2F%2Fabhishek.letskhabar.com)](https://vdev.in/@abhishekkr)
 <p align="center">
   <samp>
     Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar , Web Designer and Developer working on <a href="https://github.com/letskhabar">:octocat: @Letskhabar </a>, OpenSource Project contributor at  <a href="https://github.com/IIITians-Network">:octocat: @IIITians-Networks </a>and Student at IIIT Ranchi :india:.
@@ -15,7 +15,9 @@
 
 
 ## :pencil2: My Works:
-- [Abhishek.letskhabar.com](http://Abhishek.letskhabar.com)
+- [WedLock](https://wedlock.netlify.app/)
+- [Yaksha- a Payment Gateway](https://github.com/Abhishekkr93/Yaksha_a-payment-gateway)
+- [Abhishekkr.com](https://vdev.in/@abhishekkr)
 - [Letskhabar](https://letskhabar.com)
 - [IIIT Ranchi: IIITians-Network](https://ranchi.iiitiansnetwork.com/)
 - [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
@@ -31,7 +33,7 @@
 
 
 ##  💬 Connect with me:
-[<img src="https://logo.letskhabar.com/img/?tool=globe" alt="globe">](http://Abhishek.letskhabar.com)
+[<img src="https://logo.letskhabar.com/img/?tool=globe" alt="globe">](https://vdev.in/@abhishekkr)
 [<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin">](https://www.linkedin.com/in/abhishek-kumar-544057174)
 [<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
 [<img src="https://logo.letskhabar.com/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
