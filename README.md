@@ -1,5 +1,5 @@
 ## Hi there I am Abhishek! 👋
-  [![Portfolio Website](https://img.shields.io/website?label=Abhishek.letskhabar.com&style=for-the-badge&url=https%3A%2F%2Fabhishek.letskhabar.com)](https://vdev.in/@abhishekkr)
+  [![Portfolio Website](https://img.shields.io/website?label=Abhishek.letskhabar.com&style=for-the-badge&url=https%3A%2F%2Fabhishekkr.com)](https://vdev.in/@abhishekkr)
 <p align="center">
   <samp>
     Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar , Web Designer and Developer working on <a href="https://github.com/letskhabar">:octocat: @Letskhabar </a>, OpenSource Project contributor at  <a href="https://github.com/IIITians-Network">:octocat: @IIITians-Networks </a>and Student at IIIT Ranchi :india:.
