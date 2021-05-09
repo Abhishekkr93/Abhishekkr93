@@ -3,7 +3,10 @@
 <p align="center">
   <samp>
     Hi! <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar , Web Designer and Developer working on <a href="https://github.com/letskhabar">:octocat: @Letskhabar </a>, OpenSource Project contributor at  <a href="https://github.com/IIITians-Network">:octocat: @IIITians-Networks </a>and Student at IIIT Ranchi :india:.
-    
+    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat"> 
+[![GitHub Abhishekkr93](https://img.shields.io/github/followers/Abhishekkr93?label=follow&style=social)](https://github.com/Abhishekkr93)
+</p>
 - 😉 I’m currently learning everything.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to write, Recite & listening Poetry , My Hobby is Travelling & Quizzing.
