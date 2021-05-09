@@ -12,7 +12,7 @@
 - 💬 Ask me about **Front-end web development.**
 - 👯 I’m looking for help with Open-source and to collaborate on projects.
 - :octocat: 2021 Goals: Contribute more to Open Source projects.
-- 😉 Fun fact: I loves *Art, Design & Poetry*, My Hobby is *Travelling & Quizzing.
+- 😉 Fun fact: I loves *Art, Design & Poetry*, My Hobby is *Travelling & Quizzing.*
 - 📫 How to reach me **abhishek.btech.ec18@iiitranchi.ac.in.**
   </samp>
 </p>
