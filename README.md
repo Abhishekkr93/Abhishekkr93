@@ -38,3 +38,13 @@
 [<img src="https://logo.letskhabar.com/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
 [<img src="https://logo.letskhabar.com/img/?tool=instagram" alt="instagram">](https://instagram.com/amazing__ak)
 [<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook">](https://www.facebook.com/AmazingAK)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Abhishekkr93">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekkr93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishekkr93&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
