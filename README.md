@@ -39,7 +39,7 @@
 <img src="https://logo.letskhabar.com/img/?tool=figma" alt="figma"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://logo.letskhabar.com/img/?tool=adobe-premiere-pro" alt="pro"><img src="https://logo.letskhabar.com/img/?tool=adobe-photoshop" alt="ps"><img src="https://logo.letskhabar.com/img/?tool=adobe-xd" alt="xd">
 
 
-## 🤝🏻 &nbsp;Connect with me:
+# 🤝🏻 &nbsp;Connect with me:
 [<img src="https://logo.letskhabar.com/img/?tool=globe" alt="globe" width="30px">](https://vdev.in/@abhishekkr)
 [<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin" width="30px">](https://www.linkedin.com/in/abhishek-kumar-544057174)
 [<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail" width="30px">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
@@ -50,7 +50,7 @@
 [<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook" width="30px">](https://www.facebook.com/AmazingAK)
 
 
-## ⚙️ &nbsp;GitHub Analytics
+# ⚙️ &nbsp;GitHub Analytics:
 <p align="center">
 <a href="https://github.com/Abhishekkr93">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekkr93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
