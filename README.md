@@ -26,8 +26,8 @@
 
 
  ## 🛠 &nbsp;Languages and Tools: 
-<img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=css" alt="css"><img src="https://logo.letskhabar.com//img/?tool=react" alt="flutter"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://logo.letskhabar.com/img/?tool=netlify" alt="adobe-photoshop"><img src="https://logo.letskhabar.com/img/?tool=figma" alt="adobe-pr"><img src="https://logo.letskhabar.com/img/?tool=bootstrap" alt="youtube">
-
+<img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com//img/?tool=css" alt="css"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=react" alt="react"><img src="https://logo.letskhabar.com/img/?tool=bootstrap" alt="bs">
+<img src="https://logo.letskhabar.com/img/?tool=netlify" alt="netlify"><img src="https://logo.letskhabar.com/img/?tool=figma" alt="adobe-pr"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator">
 
 ##  💬 Connect with me:
 [<img src="https://logo.letskhabar.com/img/?tool=globe" alt="globe">](https://vdev.in/@abhishekkr)
