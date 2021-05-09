@@ -15,14 +15,13 @@
 
 
 ## :pencil2: My Works:
-- [WedLock](https://wedlock.netlify.app/)
-- [Yaksha- a Payment Gateway](https://github.com/Abhishekkr93/Yaksha_a-payment-gateway)
-- [Abhishekkr.com](https://vdev.in/@abhishekkr)
-- [Letskhabar](https://letskhabar.com)
-- [IIIT Ranchi: IIITians-Network](https://ranchi.iiitiansnetwork.com/)
-- [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
-- [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)  
-- [Letskhabar Dev](https://dev.letskhabar.com)
+- [WedLock💍](https://wedlock.netlify.app/)
+- [Master-Portfolio💻](https://github.com/vimalverma558/master-portfolio) 
+- [Yaksha- a Payment Gateway💳](https://github.com/Abhishekkr93/Yaksha_a-payment-gateway)
+- [Abhishekkr.in👦](https://vdev.in/@abhishekkr)
+- [Letskhabar📰](https://letskhabar.com)
+- [IIIT Ranchi: IIITians-Network🌐](https://ranchi.iiitiansnetwork.com/)
+- [Letskhabar Dev✨](https://dev.letskhabar.com)
 
 
  ## 🛠 &nbsp;Languages and Tools: 
