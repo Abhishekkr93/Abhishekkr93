@@ -24,9 +24,6 @@
 - [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)  
 - [Letskhabar Dev](https://dev.letskhabar.com)
 
-- ### :robot: Open Source Packages: 
-  - prime-num is javascript packages for finding prime numbers! [Prime-num](https://www.npmjs.com/package/prime-num)
-
 
  ## :trophy: Languages and Tools: 
 <img src="https://logo.letskhabar.com/img/?tool=c-programming" alt="c-programming"><img src="https://logo.letskhabar.com//img/?tool=c-plus" alt="c-plus"><img src="https://logo.letskhabar.com/img/?tool=css" alt="css"><img src="https://logo.letskhabar.com//img/?tool=flutter" alt="flutter"><img src="https://logo.letskhabar.com/img/?tool=js" alt="js"><img src="https://logo.letskhabar.com/img/?tool=git" alt="git"><img src="https://logo.letskhabar.com/img/?tool=html" alt="html"><img src="https://logo.letskhabar.com/img/?tool=github" alt="github"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator"><img src="https://logo.letskhabar.com/img/?tool=adobe-photoshop" alt="adobe-photoshop"><img src="https://logo.letskhabar.com/img/?tool=adobe-premiere-pro" alt="adobe-pr"><img src="https://logo.letskhabar.com/img/?tool=adobe-lightroom" alt="adobe-lightroom"><img src="https://logo.letskhabar.com/img/?tool=youtube" alt="youtube">
