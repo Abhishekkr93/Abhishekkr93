@@ -30,14 +30,14 @@
 <img src="https://logo.letskhabar.com/img/?tool=netlify" alt="netlify"><img src="https://logo.letskhabar.com/img/?tool=figma" alt="adobe-pr"><img src="https://logo.letskhabar.com/img/?tool=adobe-illustrator" alt="adobe-illustrator">
 
 ##  💬 Connect with me:
-[<img src="https://logo.letskhabar.com/img/?tool=globe" alt="globe">](https://vdev.in/@abhishekkr)
-[<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin">](https://www.linkedin.com/in/abhishek-kumar-544057174)
-[<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
-[<img src="https://logo.letskhabar.com/img/?tool=dev" alt="dev">](https://dev.to/amazing__ak)
-[<img src="https://logo.letskhabar.com/img/?tool=play-button" alt="play">](https://youtube.com/amazingak)
-[<img src="https://logo.letskhabar.com/img/?tool=twitter" alt="twitter">](https://twitter.com/amazing__ak)
-[<img src="https://logo.letskhabar.com/img/?tool=instagram" alt="instagram">](https://instagram.com/amazing__ak)
-[<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook">](https://www.facebook.com/AmazingAK)
+[<img src="https://logo.letskhabar.com/img/?tool=globe" alt="globe" width="30px">](https://vdev.in/@abhishekkr)
+[<img src="https://logo.letskhabar.com/img/?tool=linkedin" alt="linkedin" width="30px">](https://www.linkedin.com/in/abhishek-kumar-544057174)
+[<img src="https://logo.letskhabar.com/img/?tool=gmail" alt="gmail" width="30px">](mailto:abhishek.btech.ec18@iiitranchi.ac.in)
+[<img src="https://logo.letskhabar.com/img/?tool=dev" alt="dev" width="30px">](https://dev.to/amazing__ak)
+[<img src="https://logo.letskhabar.com/img/?tool=play-button" alt="play" width="30px">](https://youtube.com/amazingak)
+[<img src="https://logo.letskhabar.com/img/?tool=twitter" alt="twitter" width="30px">](https://twitter.com/amazing__ak)
+[<img src="https://logo.letskhabar.com/img/?tool=instagram" alt="instagram" width="30px">](https://instagram.com/amazing__ak)
+[<img src="https://logo.letskhabar.com/img/?tool=facebook" alt="facebook" width="30px">](https://www.facebook.com/AmazingAK)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
