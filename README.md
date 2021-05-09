@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **C++ and Javascript Development.**
 - 🔭 I’m currently working on [Letskhabar](https://github.com/letskhabar), [Vdev](https://github.com/vdev-in), [IIITians-Networks](https://github.com/IIITians-Network) & some interesting Open-source projects!
 - 👨‍💻 All of my projects are available at [github](https://github.com/Abhishekkr93?tab=repositories).
-- 🏛️ I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
+- 🏛️ I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
 - 💬 Ask me about **Front-end web development.**
 - 👯 I’m looking for help with Open-source and to collaborate on projects.
 - :octocat: 2021 Goals: Contribute more to Open Source projects.
