@@ -18,9 +18,9 @@
 </p>
 
 
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
-
-
+<img align="right" width="400" alt="GIF" src="https://lottiefiles.com/21282-girl-with-a-notebook"/>
+https://lottiefiles.com/21282-girl-with-a-notebook
+https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif
 ## :pencil2: My Works:
 - [WedLock 💍](https://wedlock.netlify.app/)
 - [Master-Portfolio 💻](https://github.com/vimalverma558/master-portfolio) 
