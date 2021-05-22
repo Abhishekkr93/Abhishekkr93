@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Hello!<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar. I'm a Front-end Developer, Web Designer, OpenSource contributor and Student at IIIT Ranchi :india:.
+    Hello!<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar. I'm a self-taught Front-end Developer, Web Designer, OpenSource contributor and Student at IIIT Ranchi :india:.
 
 
 - 🌱 I’m currently learning **C++ and Javascript Development.**
