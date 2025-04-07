@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    Hello!<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar. Strategic and results-driven professional with 3 years of industry experience, including 2 years at Deloitte, specializing in business analysis, data analysis, project management, data visualization, AI automation, and client relations. Adept at aligning analytics with business strategy to optimize processes and mitigate risks. Proficient in SQL, Excel, and Power BI. IIIT graduate with strong leadership, communication, and analytical skills. Committed to driving innovation through emerging technologies. I'm a self-taught Front-end Developer, Web Designer, OpenSource contributor and Graduate from IIIT Ranchi :india:.
+    Hello!<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar. Strategic and results-driven professional with 3 years of industry experience, including 2 years at Deloitte, specializing in business analysis, data analysis, project management, data visualization, AI automation, and client relations. Adept at aligning analytics. Proficient in SQL, Excel, and Power BI. IIIT graduate. I'm a self-taught Front-end Developer, Web Designer, OpenSource contributor and Graduate from IIIT Ranchi :india:.
 
 - 🧑‍💻 Business Techonology Analyst at **Deloitte USI**
 - 🌱 I’m currently learning **SQL AND Data Analysis**
