@@ -2,18 +2,18 @@
 
 <p align="center">
   <samp>
-    Hello!<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar. I'm a self-taught Front-end Developer, Web Designer, OpenSource contributor and Student at IIIT Ranchi :india:.
+    Hello!<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="19px"> This is Abhishek Kumar. Strategic and results-driven professional with 3 years of industry experience, including 2 years at Deloitte, specializing in business analysis, data analysis, project management, data visualization, AI automation, and client relations. Adept at aligning analytics with business strategy to optimize processes and mitigate risks. Proficient in SQL, Excel, and Power BI. IIIT graduate with strong leadership, communication, and analytical skills. Committed to driving innovation through emerging technologies. I'm a self-taught Front-end Developer, Web Designer, OpenSource contributor and Graduate from IIIT Ranchi :india:.
 
-
-- 🌱 I’m currently learning **C++ and Javascript Development.**
-- 🔭 I’m currently working on [Letskhabar](https://github.com/letskhabar), [Vdev](https://github.com/vdev-in), [IIITians-Networks](https://github.com/IIITians-Network) & some interesting Open-source projects!
+- 🧑‍💻 Business Techonology Analyst at **Deloitte USI**
+- 🌱 I’m currently learning **SQL AND Data Analysis**
+- 🔭 My projects are [Letskhabar](https://github.com/letskhabar), [Vdev](https://github.com/vdev-in), [IIITians-Networks](https://github.com/IIITians-Network) & some interesting Open-source projects!
 - 👨‍💻 All of my projects are available at [github](https://github.com/Abhishekkr93?tab=repositories).
-- 🏛️ I am persuing my graduation at [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
-- 💬 Ask me about **Front-end web development.**
+- 🏛️ Alumnus, IIIT Ranchi | B.Tech. in ECE, 2022 [Indian Institute of Information Technology, Ranchi](http://iiitranchi.ac.in/).
+- 💬 Ask me about **Front-end web development, Business and Data Ananlysis.**
 - 👯 I’m looking for help with Open-source and to collaborate on projects.
-- :octocat: 2021 Goals: Contribute more to Open Source projects.
+- :octocat: 2025 Goals: Contribute more to Open Source projects.
 - 😉 Fun fact: I loves *Art, Design & Poetry*, My Hobby is *Travelling & Quizzing.*
-- 📫 How to reach me: **abhishek.btech.ec18@iiitranchi.ac.in.**
+- 📫 How to reach me: **abhishek947075@gmail.com.**
   </samp>
 </p>
 
